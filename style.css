@@ -1,0 +1,268 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    height: auto;
+    width: 100%;
+}
+
+.major {
+    width: 70%;
+    margin: auto;
+    padding: 0, 70px, ;
+    padding-bottom: 100px;
+}
+
+header {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+
+.Te {
+    padding-left: 20px;
+    text-decoration: none;
+    color: rgb(18, 9, 48);
+    font-family: arial;
+    transition: 0.8s;
+    font-weight: 200;
+}
+
+.Te:hover {
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+
+.First {
+    display: flex;
+    padding-top: 50px;
+}
+
+.img {
+    padding-right: 20px;
+}
+
+.pars {
+    background-color: rgb(1, 1, 20);
+    width: 50%;
+}
+
+.f1st {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.new {
+    font-size: 30px;
+    font-family: arial;
+    color: rgb(158, 136, 8);
+    padding-bottom: 20px;
+}
+
+.hydrogen {
+    color: white;
+    font-family: arial;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.firstnote {
+    color: rgb(119, 119, 119);
+    font-size: 11px;
+    font-family: arial;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.s2nd {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.downside {
+    color: white;
+    font-family: arial;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.secondnote {
+    color: rgb(119, 119, 119);
+    font-size: 11px;
+    font-family: arial;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.meta {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.funding {
+    color: white;
+    font-family: arial;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.thirdnote {
+    color: rgb(119, 119, 119);
+    font-size: 11px;
+    font-family: arial;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+.fn {
+    color: rgb(119, 119, 119);
+    font-size: 11px;
+    font-family: arial;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.second {
+    display: inline-flex;
+    margin-top: 0;
+}
+
+.D_B {
+    font-size: 50px;
+    font-family: Arial;
+    font-weight: bolder;
+    padding-right: 50px;
+}
+
+.dive {
+    padding-top: 10px;
+    font-family: Arial;
+    font-size: 12px;
+    padding-left: 50px;
+    color: rgb(119, 119, 119);
+}
+
+.ekini {
+    padding-top: 10px;
+    font-family: Arial;
+    font-size: 12px;
+    padding-left: 50px;
+    color: rgb(119, 119, 119);
+}
+
+.read {
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: rgb(199, 14, 14);
+    padding: 10px;
+    border: none;
+    color: white;
+    letter-spacing: 0.3em;
+}
+
+footer {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.revive {
+    display: flex;
+}
+
+.no1 {
+    padding-right: 50px;
+}
+
+.reviving {
+    padding-left: 20px;
+}
+
+.i {
+    color: rgb(156, 154, 154);
+    font-family: arial;
+    padding-bottom: 10px;
+}
+
+.rev {
+    color: black;
+    font-family: arial;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.note1 {
+    color: rgb(156, 154, 154);
+    font-family: arial;
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+
+.br {
+    padding-top: 5px;
+    color: rgb(156, 154, 154);
+    font-family: arial;
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+
+.top {
+    display: flex;
+}
+
+.laptop {
+    padding-left: 20px;
+}
+
+.ii {
+    color: rgb(156, 154, 154);
+    font-family: arial;
+    padding-bottom: 10px;
+}
+
+.lappy {
+    font-size: 15px;
+    color: black;
+    font-family: arial;
+    padding-bottom: 10px;
+    font-weight: bolder;
+}
+
+.note2 {
+    color: rgb(156, 154, 154);
+    font-family: arial;
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+
+.growth {
+    display: flex;
+}
+
+.grow {
+    padding-left: 20px;
+}
+
+.iii {
+    color: rgb(156, 154, 154);
+    font-family: arial;
+    padding-bottom: 10px;
+}
+
+.gaming {
+    font-size: 15px;
+    color: black;
+    font-family: arial;
+    padding-bottom: 10px;
+    font-weight: bolder;
+}
